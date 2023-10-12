@@ -3,12 +3,9 @@
 <!DOCTYPE html>
 
 <html lang="en">
-    <head>
-        <title>About Page!</title>
-    </head>
     <body>
         <p>
-                Hello, my name is Varun Bharthavarapu! I was born in the Bronx, but has lived on Staten Island for my whole life and I went 
+            Hello, my name is Varun Bharthavarapu! I was born in the Bronx, but has lived on Staten Island for my whole life and I went 
             to New Dorp High School as a honors student. During my time there, I have joined and stayed in many clubs like the Robotics, Math, 
             and Computer Exploration Clubs for a long time. I enjoy playing video games, playing tennis, and hanging out with my friends as 
             part of my free time.
