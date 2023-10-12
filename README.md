@@ -10,7 +10,7 @@
             and Computer Exploration Clubs for a long time. I enjoy playing video games, playing tennis, and hanging out with my friends as 
             part of my free time.
         </p>
-        <img src="Pizza.jpg" alt="Favorite Food: Pizza">
+        <img src="https://www.biggerbolderbaking.com/wp-content/uploads/2021/02/New-York-Style-Pizza-Thumbnail1-scaled.jpg" alt="Favorite Food: Pizza">
         <p><a href="https://www.rit.edu/computing/department-software-engineering/">RIT SE Website</a></p>
         <h1>What I Would Like to Learn from the Course</h1>
         <ul>
